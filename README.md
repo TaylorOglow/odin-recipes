@@ -1,5 +1,5 @@
 ###### NEEDS TO BE EDITED FOR LINK ISSUES 
-# James' Hot Rod Garage
+# Cooking Without Mom
 
 ![Lines of code](https://img.shields.io/tokei/lines/github/TaylorOglow/odin-recipes)
 ![GitHub issues](https://img.shields.io/github/issues-raw/TaylorOglow/odin-recipes)
