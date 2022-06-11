@@ -1,4 +1,3 @@
-###### NEEDS TO BE EDITED FOR LINK ISSUES 
 # Cooking Without Mom
 
 ![Lines of code](https://img.shields.io/tokei/lines/github/TaylorOglow/odin-recipes)
@@ -11,10 +10,10 @@
 Taylor Oglow in 05/2022 as part of *The Odin Project*
 
 ### Preview: 
-![alt text](/var/folders/fd/z9cqc2_s3t7dhbwxrd5yz5cm0000gn/T/TemporaryItems/NSIRD_screencaptureui_bTCWhB/Screen Shot 2022-06-10 at 11.53.45.png "Preview")
+![alt text](reference/preview.png?raw=true)
 
 ### Odin Project Title: 
-Landing Page - [click here](https://www.theodinproject.com/lessons/foundations-landing-page)
+Recipes - [learn more](https://www.theodinproject.com/lessons/foundations-recipes)
 
 ### Project Description: 
 As part of *The Odin Project's* curriculum, this recipes website was my first creation! I learned the basics of ordered and unordered lists, and linking pages together. 
@@ -24,7 +23,7 @@ As part of *The Odin Project's* curriculum, this recipes website was my first cr
 
 -------------------------------
 
-Copyright [2022] [Taylor Oglow]
+Copyright © 2022 Taylor Oglow 
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
